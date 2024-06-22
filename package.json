@@ -1,5 +1,5 @@
 {
-  "name": "stratum-ethproxy",
+  "name": "stratum-verprox",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
